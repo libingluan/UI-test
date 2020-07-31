@@ -1,0 +1,3 @@
+
+class TestCaseInfo(object):
+    pass
